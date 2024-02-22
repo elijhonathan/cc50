@@ -1,4 +1,4 @@
-## Primeira aula de Scrat
+# Primeira aula de Scrat
 
 No exercicio eu fiz um jogo com base um tutorial e incrementei com alguns detalhes como pontuação e timer.
 
@@ -12,7 +12,7 @@ O que deveria conter:
 * Seu projeto deve usar pelo menos uma variável.
 * Seu projeto deve usar pelo menos um som.
 
-Algoritomo do Dinossauro
-![Dinossauro](https://github.com/elijhonathan/cc50/blob/main/Arquivos/algoritimoDinossauro.jpg)
-Algoritimo do humano
+### Algoritomo do Dinossauro
+![Dinossauro](https://github.com/elijhonathan/cc50/blob/main/Arquivos/algoritomoDinossauro.jpg)
+### Algoritimo do humano
 ![humano](https://github.com/elijhonathan/cc50/blob/main/Arquivos/algoritimohumano.jpg)
