@@ -2,7 +2,7 @@
 
 No exercicio eu fiz um jogo com base um tutorial e incrementei com alguns detalhes como pontuação e timer.
 
-[https://github.com/elijhonathan/cc50.git](https://scratch.mit.edu/projects/962999888/)
+[Hungry Dinosaur](https://scratch.mit.edu/projects/962999888/)
 
 O que deveria conter: 
 * Seu projeto deve ter pelo menos dois sprites, pelo menos um deles deve se parecer com algo diferente de um gato.
