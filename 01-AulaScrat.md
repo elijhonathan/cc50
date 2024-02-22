@@ -13,6 +13,6 @@ O que deveria conter:
 * Seu projeto deve usar pelo menos um som.
 
 Algoritomo do Dinossauro
-![Dinossauro](https://github.com/elijhonathan/DocumentandoPython/blob/main/Arquivos/algoritomoDinossauro.jpg)
+![Dinossauro](https://github.com/elijhonathan/cc50/blob/main/Arquivos/algoritimoDinossauro.jpg)
 Algoritimo do humano
-![humano](https://github.com/elijhonathan/DocumentandoPython/blob/main/Arquivos/algoritimohumano.jpg)
+![humano](https://github.com/elijhonathan/cc50/blob/main/Arquivos/algoritimohumano.jpg)
