@@ -13,4 +13,8 @@ int main(void)
         printf("?");
     }
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 1591749c73d6f35b212380e88316a32cfb8cc9de

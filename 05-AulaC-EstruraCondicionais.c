@@ -20,4 +20,8 @@ int main(void)
     {
         printf("%i e igual a %i", x, y);
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 1591749c73d6f35b212380e88316a32cfb8cc9de

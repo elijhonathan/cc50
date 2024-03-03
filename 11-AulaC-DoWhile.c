@@ -17,4 +17,8 @@ int numeroPositivo(void)
     while(n < 1);
     return n;
     
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 1591749c73d6f35b212380e88316a32cfb8cc9de
